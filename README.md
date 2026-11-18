@@ -200,7 +200,7 @@ The project includes:
 | 🎓 Education | B.Tech CSE (AI-ML) |
 | 🏫 University | SRM University AP |
 | 📅 Graduation | 2027 |
-| 📈 CGPA | 7.79 / 10 |
+| 📈 CGPA | 7.85 / 10 |
 | 💼 Internships | 3 |
 | 💻 Primary Language | Python |
 | 🤖 AI Focus | LLMs, RAG, Agentic AI |
